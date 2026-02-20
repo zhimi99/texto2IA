@@ -1,3 +1,4 @@
+START OF
 Estados Unidos desde 1995 hasta la actualidad
 Transformaciones políticas, económicas y culturales
 Desde 1995, Estados Unidos ha experimentado profundos cambios políticos, avances tecnológicos, crisis económicas, transformaciones culturales y nuevos desafíos globales que han redefinido su papel como potencia mundial.
@@ -78,3 +79,5 @@ Si quieres, puedo adaptarlo a:
 📊 Línea de tiempo resumida
 🖥 Presentación en PowerPoint
 ¿Para qué lo necesitas?
+
+END OF
